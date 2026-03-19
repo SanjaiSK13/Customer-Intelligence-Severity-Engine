@@ -1,0 +1,21 @@
+# --- Python & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- Environments (Don't upload your 1GB venv!) ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- IDE & OS Junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Project Specifics ---
+# We keep data/ and models/ so your prof can see them.
+# Only ignore them if they are > 100MB.
