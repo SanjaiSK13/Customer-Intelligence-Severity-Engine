@@ -47,8 +47,8 @@ Complaint_Severity_Classifier/
 
 Clone the Repository
 
-git clone
-cd complaint-triage-ai
+git clone https://github.com/SanjaiSK13/Customer-Intelligence-Severity-Engine
+cd Customer-Intelligence-Severity-Engine
 
 Install Dependencies
 
